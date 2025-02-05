@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cars24.csms.CsmsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.563 s -- in com.cars24.csms.CsmsApplicationTests
